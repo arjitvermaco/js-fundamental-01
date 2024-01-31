@@ -180,3 +180,6 @@ let value = 12.32423423;
 
 console.log(parseInt(value))
 console.log(Number(value))
+
+//Truthy and Falsy values
+
